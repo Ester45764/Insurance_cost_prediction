@@ -25,7 +25,7 @@ Features:
 
 * `region`: Residential region.
 
-*`charges`: Medical insurance charges (target variable).
+* `charges`: Medical insurance charges (target variable).
 
 #Project Workflow
 
@@ -47,7 +47,7 @@ Explore categorical variables and their proportions.
 
 Use visualizations to identify patterns.
 
-##Model Training
+# Model Training
 
 Split the dataset into training and testing sets.
 
