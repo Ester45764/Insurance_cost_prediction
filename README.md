@@ -27,7 +27,7 @@ Features:
 
 * `charges`: Medical insurance charges (target variable).
 
-#Project Workflow
+# Project Workflow
 
 ## Data Preprocessing
 
@@ -55,12 +55,8 @@ Train regression models using different feature combinations.
 
 Generate predictions on unseen test data.
 
-#Model Evaluation
-
-*Compare model performance using:
-
-*Mean Absolute Error (MAE)
-
-*Root Mean Squared Error (RMSE)
-
-*Coefficient of Determination (R²)
+4-Model Evaluation
+ *Compare model performance using :
+  * Mean Absolute Error (MAE)
+  * Root Mean Squared Error (RMSE)
+  * Coefficient of Determination (R²)
