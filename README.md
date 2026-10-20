@@ -29,7 +29,7 @@ The dataset contains information about individuals and their medical insurance c
 
 # Project Workflow
 
-## Data Preprocessing
+ ## Data Preprocessing
 
  * Inspect and clean the dataset.
 
