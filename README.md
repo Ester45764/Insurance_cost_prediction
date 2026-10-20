@@ -55,3 +55,10 @@ The dataset contains information about individuals and their medical insurance c
   * Mean Absolute Error (MAE)
   * Root Mean Squared Error (RMSE)
   * Coefficient of Determination (R²)
+# Technologies
+  * `Python`
+  * `Pandas`
+  * `Seaborn`
+  * `Matplotlib`
+  * `Numpy`
+  * `Sckit_learn`
