@@ -11,7 +11,7 @@ Dataset
 
 The dataset contains information about individuals and their medical insurance charges.
 
-Features:
+# Features:
 
 * `age`: Age of the individual.
 
@@ -31,27 +31,25 @@ Features:
 
 ## Data Preprocessing
 
-Inspect and clean the dataset.
+ * Inspect and clean the dataset.
 
-Encode categorical variables.
+ * Encode categorical variables.
 
-Prepare the features and target variable.
+ * Prepare the features and target variable.
 
-Exploratory Data Analysis (EDA)
+ * Exploratory Data Analysis (EDA)
 
-Analyze feature distributions.
+ * Analyze feature distributions.
 
-Study relationships between features and insurance charges.
+ * Study relationships between features and insurance charges.
 
-Explore categorical variables and their proportions.
+ * Explore categorical variables and their proportions.
 
-Use visualizations to identify patterns.
-
+ * Use visualizations to identify patterns.
 ## Model Training
  * Split the dataset into training and testing sets.
  * Train regression models using different feature combinations.
  * Generate predictions on unseen test data.
-
 ## Model Evaluation
  * Compare model performance using :
   * Mean Absolute Error (MAE)
