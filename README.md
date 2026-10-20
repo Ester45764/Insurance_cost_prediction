@@ -47,16 +47,13 @@ Explore categorical variables and their proportions.
 
 Use visualizations to identify patterns.
 
-# Model Training
+## Model Training
+ * Split the dataset into training and testing sets.
+ * Train regression models using different feature combinations.
+ * Generate predictions on unseen test data.
 
-Split the dataset into training and testing sets.
-
-Train regression models using different feature combinations.
-
-Generate predictions on unseen test data.
-
-4-Model Evaluation
- *Compare model performance using :
+## Model Evaluation
+ * Compare model performance using :
   * Mean Absolute Error (MAE)
   * Root Mean Squared Error (RMSE)
   * Coefficient of Determination (R²)
